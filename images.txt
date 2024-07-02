@@ -1,8 +1,4 @@
 #支持私库
-nriet/tomcat:9.0-jdk11-thredds
-nriet/thredds:5.5-SNAPSHOT
 nriet/restcloud:3.4
 #支持指定架构
---platform=linux/arm64 nriet/tomcat:9.0-jdk11-thredds
---platform=linux/arm64 nriet/thredds:5.5-SNAPSHOT
 --platform=linux/arm64 nriet/restcloud:3.4
