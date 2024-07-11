@@ -1,13 +1,4 @@
 #支持私库
 #minio/minio:latest
 #支持指定架构
---platform=linux/arm64 liaosnet/gbase8s:v8.8_3331x1_arm64
---platform=linux/arm64 6053537/portainer-ce:latest
---platform=linux/arm64 redis:7.2.1-alpine3.18
---platform=linux/arm64 nacos/nacos-server:v2.3.2-slim
---platform=linux/arm64 nriet/rabbitmq:3.13.1-alpine
---platform=linux/arm64 nriet/geoserver:2.25.0
---platform=linux/arm64 mongo:4.4.18
---platform=linux/arm64 nriet/neutrino-proxy-client:2.0.1
---platform=linux/arm64 nginx:1.26.1
-
+--platform=linux/arm64 star7th/showdoc:arm-latest
