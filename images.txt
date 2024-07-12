@@ -1,4 +1,4 @@
 #支持私库
-nriet/openjdk:8-jdk-centos7.9.2009
+nriet/restcloud:3.5
 #支持指定架构
---platform=linux/arm64 nriet/openjdk:8-jdk-centos7.9.2009
+--platform=linux/arm64 nriet/restcloud:3.5
