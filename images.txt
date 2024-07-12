@@ -1,4 +1,4 @@
 #支持私库
-#minio/minio:latest
+nriet/openjdk:8-jdk-centos7.9.2009
 #支持指定架构
---platform=linux/arm64 star7th/showdoc:arm-latest
+--platform=linux/arm64 nriet/openjdk:8-jdk-centos7.9.2009
