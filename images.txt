@@ -1,4 +1,6 @@
 #支持私库
-nacos/nacos-server:v2.3.2-slim
+redis:7.2.1-alpine3.18
+rabbitmq:3.13.1-alpine
+star7th/showdoc:v3.2.6
 #支持指定架构
 #--platform=linux/arm64 adoptopenjdk/openjdk8:jre8u372-b07
