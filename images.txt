@@ -1,4 +1,4 @@
 #支持私库
-nginx:1.26.1
+6053537/portainer-ce
 #支持指定架构
 #--platform=linux/arm64 adoptopenjdk/openjdk8:jre8u372-b07
