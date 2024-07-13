@@ -1,4 +1,4 @@
 #支持私库
-minio/minio:RELEASE.2024-07-10T18-41-49Z
+adoptopenjdk/openjdk8:jre8u372-b07
 #支持指定架构
---platform=linux/arm64 minio/minio:RELEASE.2024-07-10T18-41-49Z
+--platform=linux/arm64 adoptopenjdk/openjdk8:jre8u372-b07
