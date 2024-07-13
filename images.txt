@@ -1,6 +1,4 @@
 #支持私库
-redis:7.2.1-alpine3.18
-rabbitmq:3.13.1-alpine
-star7th/showdoc:v3.2.6
+nriet/geoserver:2.25.0
 #支持指定架构
-#--platform=linux/arm64 adoptopenjdk/openjdk8:jre8u372-b07
+#--platform=linux/arm64 nriet/rabbitmq:3.13.1-alpine
