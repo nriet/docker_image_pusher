@@ -1,4 +1,4 @@
 #支持私库
-nriet/geoserver:2.25.0
+nriet/geoserver:2.25.2
 #支持指定架构
-#--platform=linux/arm64 nriet/rabbitmq:3.13.1-alpine
+--platform=linux/arm64 nriet/geoserver:2.25.2
