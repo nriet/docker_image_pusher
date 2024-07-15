@@ -1,4 +1,4 @@
 #支持私库
-nriet/geoserver:2.25.2
+nriet/desktop:dataTransfer-7.9.2
 #支持指定架构
---platform=linux/arm64 nriet/geoserver:2.25.2
+#--platform=linux/arm64 nriet/geoserver:2.25.2
