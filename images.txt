@@ -1,4 +1,4 @@
 #支持私库
-node:18.19.1-slim
+rancher/rancher:v2.5.17
 #支持指定架构
---platform=linux/arm64 node:18.19.1-slim
+--platform=linux/arm64 rancher/rancher:v2.5.17
