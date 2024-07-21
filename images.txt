@@ -1,4 +1,4 @@
 #支持私库
-nriet/algorithm:centos7.9.2009-ncl
+nriet/thredds:5.6-SNAPSHOT
 #支持指定架构
-#--platform=linux/arm64 rancher/rancher:v2.5.17
+--platform=linux/arm64 nriet/thredds:5.6-SNAPSHOT
