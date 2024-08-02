@@ -1,4 +1,4 @@
 #支持私库
-verdaccio/verdaccio:5.32
+nriet/postgis:pg15-postgis3
 #支持指定架构
-#--platform=linux/arm64 nriet/thredds:5.6.1-SNAPSHOT
+--platform=linux/arm64 nriet/postgis:pg15-postgis3
