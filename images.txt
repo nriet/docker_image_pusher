@@ -1,4 +1,4 @@
 #支持私库
-nriet/postgis:pg15-postgis3
+#nriet/postgis:pg15-postgis3
 #支持指定架构
---platform=linux/arm64 nriet/postgis:pg15-postgis3
+--platform=arm64 nriet/postgis:pg15-postgis3
