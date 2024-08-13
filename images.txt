@@ -1,4 +1,4 @@
 #支持私库
-#nriet/postgis:pg15-postgis3
+nriet/tomcat:9.0-jdk11-thredds
 #支持指定架构
---platform=linux/arm64 nriet/postgis:pg15-postgis3
+--platform=linux/arm64 nriet/tomcat:9.0-jdk11-thredds
