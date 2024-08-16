@@ -1,4 +1,4 @@
 #支持私库
-kasmweb/java-dev:1.15.0-rolling
+nriet/idea:2023.3
 #支持指定架构
---platform=linux/arm64 kasmweb/java-dev:1.15.0-rolling
+#--platform=linux/arm64 kasmweb/java-dev:1.15.0-rolling
