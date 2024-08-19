@@ -1,4 +1,4 @@
 #支持私库
-nriet/idea:2023.3
+onlyoffice/documentserver:7.5
 #支持指定架构
-#--platform=linux/arm64 kasmweb/java-dev:1.15.0-rolling
+--platform=linux/arm64 onlyoffice/documentserver:7.5
