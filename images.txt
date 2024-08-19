@@ -1,4 +1,4 @@
 #支持私库
-onlyoffice/documentserver:7.5
+onlyoffice/documentserver:7.2.0
 #支持指定架构
---platform=linux/arm64 onlyoffice/documentserver:7.5
+--platform=linux/arm64 onlyoffice/documentserver:7.2.0
