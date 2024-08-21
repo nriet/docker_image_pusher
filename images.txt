@@ -1,4 +1,4 @@
 #支持私库
-onlyoffice/documentserver:7.2.0
+nriet/java-dev:1.15.0-rolling
 #支持指定架构
---platform=linux/arm64 onlyoffice/documentserver:7.2.0
+--platform=linux/arm64 nriet/java-dev:1.15.0-rolling
