@@ -1,6 +1,8 @@
 #支持私库1
-nriet/java-dev:1.15.0-rolling
+nriet/java-dev:1.15.0
+#nriet/java-dev:1.15.0-rolling
 #nriet/java-dev:1.13.1-rolling
 #支持指定架构
---platform=linux/arm64 nriet/java-dev:1.15.0-rolling
+--platform=linux/arm64 nriet/java-dev:1.15.0
+#--platform=linux/arm64 nriet/java-dev:1.15.0-rolling
 #--platform=linux/arm64 nriet/java-dev:1.13.1-rolling
