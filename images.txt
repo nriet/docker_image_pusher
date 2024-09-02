@@ -5,8 +5,8 @@
 #mysql:5.7
 #kasmweb/java-dev:develop
 #nriet/java-dev:1.15.0-rolling
-qgis/qgis:3.34.8-noble
+imresamu/postgis:14-3.4
 #支持指定架构
 #--platform=linux/arm64 kasmweb/java-dev:develop
 #--platform=linux/arm64 nriet/java-dev:1.15.0-rolling
---platform=linux/arm64 qgis/qgis:3.34.8-noble
+--platform=linux/arm64 imresamu/postgis:14-3.4
