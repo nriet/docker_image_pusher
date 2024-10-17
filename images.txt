@@ -1,6 +1,6 @@
 #支持私库1
-nriet/restcloud:1.6.1-slim-buster-python3-fj
+skyriseheng/gbase8c_v5:5.0
 #支持指定架构
 #--platform=linux/arm64 kasmweb/java-dev:develop
 #--platform=linux/arm64 nriet/java-dev:1.15.0-rolling
-#--platform=linux/arm64 imresamu/postgis:14-3.4
+--platform=linux/arm64 skyriseheng/gbase8c_v5:5.0
