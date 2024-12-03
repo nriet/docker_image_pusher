@@ -4,4 +4,22 @@
 #nriet/algorithm:station-pykrige
 #aoshiguchen/neutrino-proxy-server:2.0.1
 #支持指定架构
---platform=linux/arm64 rancher/backup-restore-operator:v1.2.1
+#--platform=linux/arm64 rancher/backup-restore-operator:v1.2.1
+--platform=linux/arm64 rancher/cis-operator:v1.0.7
+--platform=linux/arm64 rancher/configmap-reload:v0.3.0-rancher4
+--platform=linux/arm64 rancher/coredns-coredns:1.6.2
+--platform=linux/arm64 rancher/coredns-coredns:1.6.9
+--platform=linux/arm64 rancher/coredns-coredns:1.8.3
+--platform=linux/arm64 rancher/coreos-kube-state-metrics:v1.9.7
+--platform=linux/arm64 rancher/coreos-prometheus-config-reloader:v0.39.0
+--platform=linux/arm64 rancher/coreos-prometheus-operator:v0.39.0
+--platform=linux/arm64 rancher/eks-operator:v1.0.10
+--platform=linux/arm64 rancher/externalip-webhook:v0.1.6
+--platform=linux/arm64 rancher/flannel-cni:v0.3.0-rancher6
+--platform=linux/arm64 rancher/fleet-agent:v0.3.10-security1
+--platform=linux/arm64 rancher/fleet:v0.3.10-security1
+--platform=linux/arm64 rancher/fluentd:v0.1.30
+--platform=linux/arm64 rancher/gitjob:v0.1.26-security1
+--platform=linux/arm64 rancher/gke-operator:v1.1.1
+--platform=linux/arm64 rancher/grafana-grafana:6.7.4
+--platform=linux/arm64 rancher/grafana-grafana:7.1.5
