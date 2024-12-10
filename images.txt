@@ -3,6 +3,6 @@
 #nriet/fy4b:python3.9-slim-v1
 #nriet/algorithm:station-pykrige
 #aoshiguchen/neutrino-proxy-server:2.0.1
-openeuler/openeuler:24.03
+centos:centos7.9.2009
 #支持指定架构
---platform=linux/arm64 openeuler/openeuler:24.03
+--platform=linux/arm64 centos:centos7.9.2009
