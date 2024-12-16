@@ -7,3 +7,4 @@
 
 #支持指定架构
 --platform=linux/arm64 nriet/algorithm:tqradarmap_openeuler_24.03
+
