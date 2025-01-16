@@ -3,6 +3,6 @@
 #nriet/fy4b:python3.9-slim-v1
 #nriet/algorithm:station-pykrige
 #aoshiguchen/neutrino-proxy-server:2.0.1
-nriet/desktop:dataTransfer-7.8.1
+rmohr/activemq:5.15.4-alpine
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.1
