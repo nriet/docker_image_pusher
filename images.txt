@@ -3,6 +3,6 @@
 #nriet/fy4b:python3.9-slim-v1
 #nriet/algorithm:station-pykrige
 #aoshiguchen/neutrino-proxy-server:2.0.1
-apache/nifi:2.2.0
+zookeeper:3.9
 #支持指定架构
---platform=linux/arm64 apache/nifi:2.2.0
+--platform=linux/arm64 zookeeper:3.9
