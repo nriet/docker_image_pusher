@@ -3,6 +3,7 @@
 #nriet/fy4b:python3.9-slim-v1
 #nriet/algorithm:station-pykrige
 #aoshiguchen/neutrino-proxy-server:2.0.1
-nacos/nacos-server:2.0.4-slim
+elasticsearch/elasticsearch:8.14.2
+kibana/kibana:8.14.2
 #支持指定架构
 #--platform=linux/arm64 nginx:1.26.1
