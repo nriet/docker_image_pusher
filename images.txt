@@ -6,4 +6,5 @@
 elasticsearch/elasticsearch:8.14.2
 kibana/kibana:8.14.2
 #支持指定架构
-#--platform=linux/arm64 nginx:1.26.1
+#--platform=linux/arm64 nriet/restcloud:3.9-slim-buster
+#--platform=linux/arm64 nriet/restcloud:3.9-slim-buster-python3
