@@ -3,8 +3,7 @@
 #nriet/fy4b:python3.9-slim-v1
 #nriet/algorithm:station-pykrige
 #aoshiguchen/neutrino-proxy-server:2.0.1
-elasticsearch:8.14.2
-kibana:8.14.2
+xugudb/xugudb:v12
 #支持指定架构
 #--platform=linux/arm64 nriet/restcloud:3.9-slim-buster
 #--platform=linux/arm64 nriet/restcloud:3.9-slim-buster-python3
