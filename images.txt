@@ -5,7 +5,8 @@
 #aoshiguchen/neutrino-proxy-server:2.0.1
 #xugudb/xugudb:v12
 #unidata/thredds-docker:4.6.5
-axiom/docker-erddap:2.25.1-jdk21-openjdk
+#axiom/docker-erddap:2.25.1-jdk21-openjdk
+python:3.10-slim
 #支持指定架构
-#--platform=linux/arm64 nriet/restcloud:3.9-slim-buster
+--platform=linux/arm64 python:3.10-slim
 #--platform=linux/arm64 nriet/restcloud:3.9-slim-buster-python3
