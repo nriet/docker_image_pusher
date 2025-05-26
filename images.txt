@@ -10,9 +10,9 @@
 #cassandra:5.0
 #nriet/thredds:5.6.35-SNAPSHOT
 #onlyoffice/documentserver-de:8.3
-186184848/documentserver:8.3.3
+moqisoft/documentserver:8.3.3
 #支持指定架构
---platform=linux/arm64 186184848/documentserver:8.3.3
+--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
 #--platform=linux/arm64 nriet/thredds:5.6.35-SNAPSHOT
 #--platform=linux/arm64 cassandra:5.0
