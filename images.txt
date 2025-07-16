@@ -19,3 +19,4 @@ nriet/algorithm:contoursalgorithm
 #--platform=linux/arm64 nriet/restcloud:3.9-slim-buster-python3
 --platform=linux/arm64 nriet/algorithm:contoursalgorithm
 
+
