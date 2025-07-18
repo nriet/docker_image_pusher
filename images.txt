@@ -10,11 +10,13 @@
 #cassandra:5.0
 #nriet/thredds:5.6.35-SNAPSHOT
 #onlyoffice/documentserver-de:8.3
-nriet/algorithm:contoursalgorithm
+#nriet/algorithm:contoursalgorithm
+nriet/restcloud:3.9.4
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
 #--platform=linux/arm64 nriet/thredds:5.6.35-SNAPSHOT
 #--platform=linux/arm64 cassandra:5.0
 #--platform=linux/arm64 nriet/restcloud:3.9-slim-buster-python3
---platform=linux/arm64 nriet/algorithm:contoursalgorithm
+#--platform=linux/arm64 nriet/algorithm:contoursalgorithm
+--platform=linux/arm64 nriet/restcloud:3.9.4
