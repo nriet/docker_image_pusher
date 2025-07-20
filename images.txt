@@ -19,7 +19,8 @@
 #maven:3.8.6-openjdk-8-slim
 #sonatype/nexus:2.12.1-01
 #jenkins/jenkins:jdk17
-node:18.19.1-slim
+#node:18.19.1-slim
+gitlab/gitlab-runner:alpine3.18-v18.0.4
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
@@ -34,4 +35,5 @@ node:18.19.1-slim
 #--platform=linux/arm64 verdaccio/verdaccio:5.32
 #--platform=linux/arm64 maven:3.8.6-openjdk-8-slim
 #--platform=linux/arm64 jenkins/jenkins:jdk17
---platform=linux/arm64 node:18.19.1-slim
+#--platform=linux/arm64 node:18.19.1-slim
+--platform=linux/arm64 gitlab/gitlab-runner:alpine3.18-v18.0.4
