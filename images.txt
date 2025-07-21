@@ -21,7 +21,7 @@
 #jenkins/jenkins:jdk17
 #node:18.19.1-slim
 #gitlab/gitlab-runner:alpine3.18-v18.0.4
-nginx:1.29
+nginx:1.29-alpine
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
@@ -38,4 +38,4 @@ nginx:1.29
 #--platform=linux/arm64 jenkins/jenkins:jdk17
 #--platform=linux/arm64 node:18.19.1-slim
 #--platform=linux/arm64 gitlab/gitlab-runner:alpine3.18-v18.0.4
---platform=linux/arm64 nginx:1.29
+--platform=linux/arm64 nginx:1.29-alpine
