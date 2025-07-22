@@ -8,7 +8,7 @@
 #axiom/docker-erddap:2.25.1-jdk21-openjdk
 #unidata/thredds-docker:5.6
 #cassandra:5.0
-nriet/thredds:5.6.35-SNAPSHOT
+#nriet/thredds:5.6.35-SNAPSHOT
 #onlyoffice/documentserver-de:8.3
 #nriet/algorithm:contoursalgorithm
 #nriet/restcloud:3.9.4
@@ -22,11 +22,12 @@ nriet/thredds:5.6.35-SNAPSHOT
 #node:18.19.1-slim
 #gitlab/gitlab-runner:alpine3.18-v18.0.4
 #nginx:1.29-alpine
-opengauss/opengauss:3.1.0
+#opengauss/opengauss:3.1.0
+apecloud/gbase8c_v5:5.0
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
---platform=linux/arm64 nriet/thredds:5.6.35-SNAPSHOT
+#--platform=linux/arm64 nriet/thredds:5.6.35-SNAPSHOT
 #--platform=linux/arm64 cassandra:5.0
 #--platform=linux/arm64 nriet/restcloud:3.9-slim-buster-python3
 #--platform=linux/arm64 nriet/algorithm:contoursalgorithm
@@ -40,4 +41,5 @@ opengauss/opengauss:3.1.0
 #--platform=linux/arm64 node:18.19.1-slim
 #--platform=linux/arm64 gitlab/gitlab-runner:alpine3.18-v18.0.4
 #--platform=linux/arm64 nginx:1.29-alpine
---platform=linux/arm64 opengauss/opengauss:3.1.0
+#--platform=linux/arm64 opengauss/opengauss:3.1.0
+--platform=linux/arm64 apecloud/gbase8c_v5:5.0
