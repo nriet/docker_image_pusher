@@ -24,7 +24,8 @@
 #nginx:1.29-alpine
 #opengauss/opengauss:3.1.0
 #apecloud/gbase8c_v5:5.0
-opengauss/opengauss:7.0.0-RC2.B015
+#opengauss/opengauss:7.0.0-RC2.B015
+lhrbest/gbase8c:8cV5_S3.0.0B76_1.0
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
@@ -44,4 +45,4 @@ opengauss/opengauss:7.0.0-RC2.B015
 #--platform=linux/arm64 nginx:1.29-alpine
 #--platform=linux/arm64 opengauss/opengauss:3.1.0
 #--platform=linux/arm64 apecloud/gbase8c_v5:5.0
---platform=linux/arm64 opengauss/opengauss:7.0.0-RC2.B015
+#--platform=linux/arm64 lhrbest/gbase8c:8cV5_S3.0.0B76_1.0
