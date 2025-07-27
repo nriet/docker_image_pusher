@@ -26,7 +26,8 @@
 #apecloud/gbase8c_v5:5.0
 #opengauss/opengauss:7.0.0-RC2.B015
 #lhrbest/gbase8c:8cV5_S3.0.0B76_1.0
-cassandra:5.0.4
+#cassandra:5.0.4
+nriet/tomcat:8.5-jdk8
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
@@ -47,4 +48,5 @@ cassandra:5.0.4
 #--platform=linux/arm64 opengauss/opengauss:3.1.0
 #--platform=linux/arm64 apecloud/gbase8c_v5:5.0
 #--platform=linux/arm64 lhrbest/gbase8c:8cV5_S3.0.0B76_1.0
---platform=linux/arm64 cassandra:5.0.4
+#--platform=linux/arm64 cassandra:5.0.4
+--platform=linux/arm64 nriet/tomcat:8.5-jdk8
