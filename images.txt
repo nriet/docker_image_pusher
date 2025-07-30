@@ -29,8 +29,11 @@
 #cassandra:5.0.4
 #nriet/tomcat:8.5-jdk8
 #sonatype/nexus3:3.82.0-alpine
-openjdk:8-jre-alpine
-openjdk:8-jdk-alpine
+#openjdk:8-jre-alpine
+#openjdk:8-jdk-alpine
+
+gitlab/gitlab-runner-helper:x86_64-v18.0.4
+
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
@@ -56,5 +59,7 @@ openjdk:8-jdk-alpine
 #--platform=linux/arm64 sonatype/nexus3:3.82.0-alpine
 #--platform=linux/arm64 star7th/showdoc:arm-latest
 
---platform=linux/arm64 openjdk:8-jre-alpine
---platform=linux/arm64 openjdk:8-jdk-alpine
+#--platform=linux/arm64 openjdk:8-jre-alpine
+#--platform=linux/arm64 openjdk:8-jdk-alpine
+
+--platform=linux/arm64 gitlab/gitlab-runner-helper:arm64-v18.0.4
