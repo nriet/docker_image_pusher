@@ -32,8 +32,8 @@
 #openjdk:8-jre-alpine
 #openjdk:8-jdk-alpine
 
-gitlab/gitlab-runner-helper:x86_64-v18.0.4
-
+#gitlab/gitlab-runner-helper:x86_64-v18.0.4
+docker:20.10.12-dind
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
@@ -62,4 +62,6 @@ gitlab/gitlab-runner-helper:x86_64-v18.0.4
 #--platform=linux/arm64 openjdk:8-jre-alpine
 #--platform=linux/arm64 openjdk:8-jdk-alpine
 
---platform=linux/arm64 gitlab/gitlab-runner-helper:arm64-v18.0.4
+#--platform=linux/arm64 gitlab/gitlab-runner-helper:arm64-v18.0.4
+
+--platform=linux/arm64 docker:20.10.12-dind
