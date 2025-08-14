@@ -35,7 +35,8 @@
 #gitlab/gitlab-runner-helper:x86_64-v18.0.4
 #docker:20.10.12-dind
 #docker:20.10.16
-docker:dind
+#docker:dind
+node:13.14.0-slim
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
@@ -69,4 +70,6 @@ docker:dind
 #--platform=linux/arm64 docker:20.10.12-dind
 #--platform=linux/arm64 docker:20.10.16
 
---platform=linux/arm64 docker:dind
+#--platform=linux/arm64 docker:dind
+
+--platform=linux/arm64 node:13.14.0-slim
