@@ -36,7 +36,8 @@
 #docker:20.10.12-dind
 #docker:20.10.16
 #docker:dind
-node:13.14.0-slim
+#node:13.14.0-slim
+openeuler/activemq:6.1.7-oe2403sp1
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
@@ -72,4 +73,6 @@ node:13.14.0-slim
 
 #--platform=linux/arm64 docker:dind
 
---platform=linux/arm64 node:13.14.0-slim
+#--platform=linux/arm64 node:13.14.0-slim
+
+--platform=linux/arm64 openeuler/activemq:6.1.7-oe2403sp1
