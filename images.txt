@@ -38,7 +38,8 @@
 #docker:dind
 #node:13.14.0-slim
 #apache/activemq-classic:6.1.7
-mysql:8.3.0
+#mysql:8.3.0
+cym1102/nginxwebui:4.3.2
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
@@ -78,4 +79,6 @@ mysql:8.3.0
 
 #--platform=linux/arm64 apache/activemq-classic:6.1.7
 
---platform=linux/arm64 mysql:8.3.0
+#--platform=linux/arm64 mysql:8.3.0
+
+--platform=linux/arm64 cym1102/nginxwebui:4.3.2
