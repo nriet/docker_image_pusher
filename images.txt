@@ -40,7 +40,8 @@
 #apache/activemq-classic:6.1.7
 #mysql:8.3.0
 #cym1102/nginxwebui:4.3.2
-portainer/agent:2.19.5-alpine
+#portainer/agent:2.19.5-alpine
+symptoma/activemq:5.18.6
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
@@ -83,4 +84,7 @@ portainer/agent:2.19.5-alpine
 #--platform=linux/arm64 mysql:8.3.0
 
 #--platform=linux/arm64 cym1102/nginxwebui:4.3.2
---platform=linux/arm64 portainer/agent:2.19.5-alpine
+#--platform=linux/arm64 portainer/agent:2.19.5-alpine
+
+
+--platform=linux/arm64 symptoma/activemq:5.18.6
