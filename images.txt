@@ -89,3 +89,4 @@ nriet/algorithm:python3.9-slim-v1
 
 #--platform=linux/arm64 symptoma/activemq:5.18.6
 --platform=linux/arm64 nriet/algorithm:python3.9-slim-v1
+
