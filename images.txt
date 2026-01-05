@@ -48,6 +48,7 @@
 
 nriet/algorithm:python3.12-sate-trueColor
 
+
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
 #--platform=linux/arm64 onlyoffice/documentserver-de:8.3
