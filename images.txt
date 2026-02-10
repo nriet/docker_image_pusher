@@ -49,6 +49,7 @@
 #nriet/algorithm:python3.12-sate-trueColor
 #star7th/showdoc:v3.7.1
 portainer/portainer-ce:2.33.7-alpine
+portainer/agent:2.33.7-alpine
 
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
@@ -100,7 +101,7 @@ portainer/portainer-ce:2.33.7-alpine
 
 #--platform=linux/arm64 nriet/algorithm:python3.12-sate-trueColor
 --platform=linux/arm64 portainer/portainer-ce:2.33.7-alpine
-
+--platform=linux/arm64 portainer/agent:2.33.7-alpine
 
 
 
