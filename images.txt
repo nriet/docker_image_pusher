@@ -46,7 +46,8 @@
 #ferretdb/ferretdb:2.7
 #nriet/geoserver:2.28.1
 
-nriet/algorithm:python3.12-sate-trueColor
+#nriet/algorithm:python3.12-sate-trueColor
+star7th/showdoc:v3.7.1
 
 #支持指定架构
 #--platform=linux/arm64 moqisoft/documentserver:8.3.3
@@ -96,7 +97,7 @@ nriet/algorithm:python3.12-sate-trueColor
 #--platform=linux/arm64 nriet/algorithm:python3.9-slim-v1
 
 
---platform=linux/arm64 nriet/algorithm:python3.12-sate-trueColor
+#--platform=linux/arm64 nriet/algorithm:python3.12-sate-trueColor
 
 
 
