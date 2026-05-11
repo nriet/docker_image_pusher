@@ -103,9 +103,11 @@
 #--platform=linux/arm64 portainer/portainer-ce:2.33.7-alpine
 #--platform=linux/arm64 portainer/agent:2.33.7-alpine
 
-nriet/algorithm:python3.12-slld
---platform=linux/arm64 nriet/algorithm:python3.12-slld
+#nriet/algorithm:python3.12-slld
+#--platform=linux/arm64 nriet/algorithm:python3.12-slld
 
+--platform=linux/arm64 portainer/portainer-ce:2.39.2-alpine
+--platform=linux/arm64 portainer/agent:2.39.2-alpine
 
 
 
