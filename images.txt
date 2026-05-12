@@ -113,5 +113,8 @@
 
 
 
-apache/activemq:5.19.6
---platform=linux/arm64 apache/activemq:5.19.6
+#apache/activemq:5.19.6
+#--platform=linux/arm64 apache/activemq:5.19.6
+
+redis:7.2-alpine
+--platform=linux/arm64 redis:7.2-alpine
